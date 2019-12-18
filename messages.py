@@ -1,10 +1,9 @@
 #!/usr/bin/python
 
-from selenium import webdriver
 import signal
 import sys
 import time
-
+from selenium import webdriver
 
 def main():
     url = 'https://messages.google.com/web'
