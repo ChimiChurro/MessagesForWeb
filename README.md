@@ -1,7 +1,7 @@
 # MessagesForWeb
 **Automatically open up google's Messages for web from the terminal to send/receive texts from your computer using Selenium and Firefox.**
 
-The only requirements for this project are Selenium. [Official site](https://selenium.dev/) [Github](https://github.com/SeleniumHQ/selenium) [Python Package](https://pypi.org/project/selenium/)
+The only requirements for this project are Selenium. [[Official site]](https://selenium.dev/) [[Github]](https://github.com/SeleniumHQ/selenium) [[Python Package]](https://pypi.org/project/selenium/)
 
 *Note: You must change line 11 in the "messages.py" file to the location of your geckodriver executable. It is most likely (definitely?) located/symlinked to "/usr/local/bin/geckodriver".*
 
