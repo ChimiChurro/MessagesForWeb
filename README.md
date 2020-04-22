@@ -12,3 +12,7 @@ The only requirements for this project are Selenium. [[Official site]](https://s
 > 1) Selecting "messages for web" in the 3-dot dropdown menu at the top right of the Google Messages app
 > 2) Select "QR code scanner"
 > 3) Scan QR code shown in the browser window opened by the selenium webdriver.
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+Note: After running this program for some time I realized it wasn't practical to use selenium in this scenario. It seems to take up unnecessary resources, and the same thing can be done using other means. For example running a script with the 3rd party python package PyAutoGui. 
